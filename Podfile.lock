@@ -1,0 +1,24 @@
+PODS:
+  - KeychainAccess (3.1.2)
+  - ReachabilitySwift (4.3.0)
+  - Reveal-SDK (18)
+
+DEPENDENCIES:
+  - KeychainAccess (~> 3.1.2)
+  - ReachabilitySwift (~> 4.3.0)
+  - Reveal-SDK
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - KeychainAccess
+    - ReachabilitySwift
+    - Reveal-SDK
+
+SPEC CHECKSUMS:
+  KeychainAccess: b3816fddcf28aa29d94b10ec305cd52be14c472b
+  ReachabilitySwift: 408477d1b6ed9779dba301953171e017c31241f3
+  Reveal-SDK: cce79388da3fd0bbb6ae19d769b906cfc3a33a89
+
+PODFILE CHECKSUM: 9342df26ae0168eb30d52fe38f57c7c47ab6f2b1
+
+COCOAPODS: 1.6.2

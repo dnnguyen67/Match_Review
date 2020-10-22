@@ -1,0 +1,6 @@
+framework module Pods_MatchReview {
+  umbrella header "Pods-MatchReview-umbrella.h"
+
+  export *
+  module * { export * }
+}
